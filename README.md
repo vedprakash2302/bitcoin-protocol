@@ -84,7 +84,7 @@ by adding `project1` to your list of dependencies in `mix.exs`:
 ```elixir
 def deps do
   [
-    {:project1, "~> 0.1.0"}
+    {:bitcoin, "~> 0.1.0"}
   ]
 end
 ```
